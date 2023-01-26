@@ -1,0 +1,20 @@
+<svg width="410" height="340" viewBox="0 0 410 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_55_4204)">
+<path d="M0 40C0 21.1438 0 11.7157 5.85786 5.85786C11.7157 0 21.1438 0 40 0H370C388.856 0 398.284 0 404.142 5.85786C410 11.7157 410 21.1438 410 40V300C410 318.856 410 328.284 404.142 334.142C398.284 340 388.856 340 370 340H40C21.1438 340 11.7157 340 5.85786 334.142C0 328.284 0 318.856 0 300V40Z" fill="url(#paint0_linear_55_4204)"/>
+<circle cx="14" cy="457" r="329" fill="black" fill-opacity="0.1"/>
+<circle cx="849.5" cy="699.5" r="563.5" fill="black" fill-opacity="0.1"/>
+<circle cx="566.5" cy="103.5" r="237.5" fill="white" fill-opacity="0.1"/>
+<g opacity="0.66">
+<rect x="-7" width="682" height="372" rx="20" fill="#041647"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_55_4204" x1="-103.781" y1="-61.6935" x2="419.74" y2="126.677" gradientUnits="userSpaceOnUse">
+<stop stop-color="#007CFF"/>
+<stop offset="1" stop-color="#9900FF"/>
+</linearGradient>
+<clipPath id="clip0_55_4204">
+<path d="M0 40C0 21.1438 0 11.7157 5.85786 5.85786C11.7157 0 21.1438 0 40 0H370C388.856 0 398.284 0 404.142 5.85786C410 11.7157 410 21.1438 410 40V300C410 318.856 410 328.284 404.142 334.142C398.284 340 388.856 340 370 340H40C21.1438 340 11.7157 340 5.85786 334.142C0 328.284 0 318.856 0 300V40Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>
